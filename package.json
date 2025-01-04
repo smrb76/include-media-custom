@@ -1,21 +1,17 @@
 {
-  "title": "include-media",
-  "name": "include-media",
+  "title": "include-media-custom",
+  "name": "include-media-custom",
   "version": "2.0.0",
   "description": "Simple, elegant and maintainable media queries in Sass",
   "repository": {
     "type": "git",
-    "url": "https://github.com/eduardoboucas/include-media.git"
+    "url": "https://github.com/smrb76/include-media-custom.git"
   },
   "main": "index.js",
   "author": {
     "name": "Eduardo Boucas",
     "email": "mail@eduardoboucas.com"
   },
-  "bugs": {
-    "url": "https://github.com/eduardoboucas/include-media/issues"
-  },
-  "homepage": "https://eduardoboucas.github.io/include-media",
   "keywords": [
     "sass",
     "eyeglass-module"
